@@ -1,4 +1,4 @@
-# Korean-Pronunciation-Challenge# Korean Pronunciation Challenge
+# Korean-Pronunciation-Challenge
 
 This project is a web application that presents a sentence to the user, records the user reading it, and evaluates pronunciation accuracy via the ETRI Pronunciation API, displaying a score from 1 to 5 (rounded to one decimal place).
 
