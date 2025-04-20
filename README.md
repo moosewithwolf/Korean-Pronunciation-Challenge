@@ -4,6 +4,9 @@ This project is a web application that presents a sentence to the user, records 
 
 ---
 
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/68427e8a-b243-4b38-8954-56d084fd7fbe" />
+
+
 ## Key Features
 
 - **Random Sentence Presentation**  
@@ -163,6 +166,4 @@ frontend/
 - **Animations & Branding**: Add interactive animations resembling English brand pronunciation challenges to enhance user engagement and feedback.
 
 ---
-
-*Contributions and issues are welcome! Please open a PR or issue in the repository.*
 
